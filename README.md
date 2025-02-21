@@ -1,7 +1,7 @@
 # NLP-Deception-Classifier
-A deception classifier using **logistic regression** with **TF-IDF, n-grams, and sentiment analysis**.  
-Evaluates performance via **5-fold cross-validation** and **confusion matrix analysis**.  
-Achieved **67% accuracy** on a hidden Kaggle dataset.
+- A deception classifier using **logistic regression** with **TF-IDF, n-grams, and sentiment analysis**.  
+- Evaluates performance via **5-fold cross-validation** and **confusion matrix analysis**.  
+- Achieved **67% accuracy** on a hidden Kaggle dataset.
 
 ## Usage
 ```bash
